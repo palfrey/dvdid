@@ -1,0 +1,9 @@
+Makefile
+*.la
+*.lo
+config.log
+config.status
+libtool
+.deps
+.libs
+dvdid
